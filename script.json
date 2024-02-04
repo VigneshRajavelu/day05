@@ -1,0 +1,31 @@
+
+{
+    "personaldetails": {
+        "name": "vigneshrajavelu",
+        "age": "23",
+        "dateofbirth": "27/05/2000",
+        "mail": "vigneshr2705@gmail.com"
+
+    },
+
+   "highestqualification": {
+    "degree": "bachelorofengineering",
+    "university": "karpagamacademyofhighereducation",
+    "department": "computerscienceandengineering",
+    "yearofpassedout": "2022"
+
+   },
+
+   "workexperience": {
+    "type": "apprenticeship",
+    "office": "nlcindialimited",
+    "duration": "10/2022-10/2023",
+    "role": "frontenddeveloper"
+
+   }
+
+
+
+
+
+}
